@@ -4,7 +4,7 @@
 
 
 
-# Guide d'utilisation de l'application "Bibli"
+# Guide d'utilisation de l'application
 # Introduction : 
 L'application "Bibli" a été conçue pour gérer une bibliothèque de livres au format EPUB 
 et PDF, permettant l'ajout de livres depuis des URL par scrapping et la génération de rapports basés 
